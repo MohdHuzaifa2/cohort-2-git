@@ -20,15 +20,15 @@ body {
 }
 
 h1 {
-    color: rgb(81, 156, 196);
-    font-weight: medium;
+    color: rgb(236, 203, 82);
+    font-weight: 500;
 }
 
 button {
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: rgb(81, 158, 196);
+    background-color: rgb(236, 203, 82);
     border: none;
     border-radius: 5px;
     cursor: pointer;
